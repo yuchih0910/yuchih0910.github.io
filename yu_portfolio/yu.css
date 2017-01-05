@@ -182,7 +182,13 @@ nav{
 }
 
 
-
+#video h4{
+    margin-top: 20%;
+    text-align: left;
+}
+#video{
+    margin-bottom: 30px;
+}
 
 
 
@@ -195,7 +201,7 @@ nav{
 
 .modal-dialog {
     position: center;
-    width:60%;
+    width:55%;
     
 }
 
