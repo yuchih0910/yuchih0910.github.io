@@ -64,7 +64,5 @@ $(document).ready(function(){
         });
     }
     
-  
-    
 });
 
