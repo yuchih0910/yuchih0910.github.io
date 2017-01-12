@@ -114,7 +114,11 @@ img:hover {
 <<<<<<< HEAD
     background: #000 url("assets/block2.jpg");
 =======
+<<<<<<< HEAD
+    background: #000 url("assets/block2.jpg");
+=======
     background: #000 url("assets/block1.jpg") center top;
+>>>>>>> origin/master
 >>>>>>> origin/master
     filter: grey;
     -webkit-filter: grayscale(20%);
@@ -122,6 +126,9 @@ img:hover {
     filter: alpha(opacity=50);
     z-index=-2;
     background-attachment: fixed;
+<<<<<<< HEAD
+    background-position:bottom;
+=======
 <<<<<<< HEAD
     background-position:bottom;
     width: 100%;
@@ -145,13 +152,25 @@ img:hover {
     background: #000 url("assets/block1.jpg");
 =======
     background-position: center top;
+>>>>>>> origin/master
     width: 100%;
-    height: 400px;
+    height: 300px;
     background-size:cover;
 }
 
+#block1 h1{
+    color:white;
+    text-shadow: 4px 3px 10px  #000000;
+    padding:100px;
+}
+
+
 #block2{
+<<<<<<< HEAD
+   background: #000 url("assets/block1.jpg");
+=======
     background: #000 url("assets/block2.jpg") top;
+>>>>>>> origin/master
 >>>>>>> origin/master
     filter: grey;
     -webkit-filter: grayscale(20%); 
@@ -164,13 +183,24 @@ img:hover {
     width: 100%;
     height: 300px;
 =======
+<<<<<<< HEAD
+    background-position: bottom;
+    width: 100%;
+    height: 300px;
+=======
     background-position: top;
     width: 100%;
     height: 400px;
 >>>>>>> origin/master
+>>>>>>> origin/master
     background-size:cover;
 }
 
+#block2 h1{
+    color:white;
+    text-shadow: 4px 3px 10px  #000000;
+    padding:100px;
+}
 
 #story{
     margin-top:100px;
@@ -286,6 +316,7 @@ nav{
 
 /*Gallery*/
 
+
 #gallery h2{
     padding:45px;
 }
@@ -336,9 +367,14 @@ nav{
  }
 
 <<<<<<< HEAD
+
+#gallery .photo-put{
+=======
+<<<<<<< HEAD
 #gallery .photo-put{
 =======
 #gallery{
+>>>>>>> origin/master
 >>>>>>> origin/master
     margin-top:100px;
     margin-bottom: 100px;
